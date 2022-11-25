@@ -1,0 +1,10 @@
+var a;
+var b;
+b = 12.5;
+while (a < 5){
+   a = a + 1;
+   b = b + true;
+}
+
+print a;
+print b;

@@ -1,0 +1,6 @@
+var a = abc;
+if (true == true){
+   a = a + 1;
+}
+
+print a;
